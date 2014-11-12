@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-11-11T18:55:02Z"/>
+
+  <node id="21289318" lat="49.1721628" lon="16.5251872">
+    <tag k="alt_name" v="Bosonohy"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="21308493" lat="49.1746000" lon="16.5195763">
+    <tag k="alt_name" v="Bosonohy"/>
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="21378702" lat="49.2143955" lon="16.5216877">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="21540799" lat="49.1637537" lon="16.5558616">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="21626530" lat="49.1733265" lon="16.5580409">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="25230255" lat="49.1633477" lon="16.6322891">
+    <tag k="name" v="Brno"/>
+    <tag k="name:de" v="Brünn"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="25631543" lat="49.2391060" lon="16.5890940">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="27203482" lat="49.1905186" lon="16.6457004">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="28121807" lat="49.2144061" lon="16.5218553">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="28198268" lat="49.2484527" lon="16.5134022">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="59457247" lat="49.1581271" lon="16.6002855">
+    <tag k="name" v="Brno"/>
+    <tag k="name:de" v="Brünn"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="60938956" lat="49.1728003" lon="16.5601201">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="91765439" lat="49.2111537" lon="16.4930463">
+    <tag k="alt_name" v="Žebětín"/>
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="91765484" lat="49.2162376" lon="16.4931382">
+    <tag k="alt_name" v="Bystrc"/>
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="301628086" lat="49.1670585" lon="16.6908885">
+    <tag k="name" v="Brno"/>
+    <tag k="name:de" v="Brünn"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="360745063" lat="49.2599138" lon="16.5763434">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="448856015" lat="49.2378911" lon="16.5047067">
+    <tag k="name" v="Brno"/>
+    <tag k="source" v="gps"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="448872545" lat="49.1969215" lon="16.5291783">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="449397703" lat="49.2407580" lon="16.5302989">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="472074390" lat="49.2496427" lon="16.5890211">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="876472612" lat="49.1898471" lon="16.6426927">
+    <tag k="name" v="Brno"/>
+    <tag k="source" v="norc_cz"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="882331749" lat="49.1843304" lon="16.6907511">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="920045068" lat="49.1758659" lon="16.6953062">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="1278760694" lat="49.8227019" lon="13.6707144">
+    <tag k="ele" v="721"/>
+    <tag k="name" v="Brno"/>
+    <tag k="name:lt" v="Brno"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="1432459889" lat="49.1823076" lon="16.6944198">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="1557653461" lat="49.1320303" lon="16.6445945">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="1557653467" lat="49.1363150" lon="16.6037245">
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="1583321995" lat="49.8225006" lon="13.6702318">
+    <tag k="ele" v="718"/>
+    <tag k="hiking" v="yes"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="name" v="Brno"/>
+    <tag k="name:lt" v="Brno"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="1601566699" lat="49.1922443" lon="16.6113382">
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:country" v="Czech Republic"/>
+    <tag k="name" v="Brno"/>
+    <tag k="name:ar" v="برنو"/>
+    <tag k="name:cs" v="Brno"/>
+    <tag k="name:de" v="Brünn"/>
+    <tag k="name:el" v="Μπρνο"/>
+    <tag k="name:hu" v="Brünn"/>
+    <tag k="name:la" v="Bruna"/>
+    <tag k="name:lt" v="Brno"/>
+    <tag k="name:ru" v="Брно"/>
+    <tag k="name:sr" v="Брно"/>
+    <tag k="name:uk" v="Брно"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="293362"/>
+    <tag k="ref:cobe" v="411582"/>
+    <tag k="source" v="csu:uir-zsj"/>
+    <tag k="wikipedia" v="cs:Brno"/>
+  </node>
+  <node id="2260548902" lat="50.7086532" lon="15.4707036">
+    <tag k="name" v="Brno"/>
+    <tag k="name:lt" v="Brno"/>
+    <tag k="place" v="locality"/>
+    <tag k="source" v="cuzk:km"/>
+  </node>
+  <node id="2941471000" lat="49.2018618" lon="16.4915543">
+    <tag k="alt_name" v="Žebětín"/>
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="2941471001" lat="49.2067680" lon="16.5012587">
+    <tag k="alt_name" v="Žebětín"/>
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+  <node id="2941471002" lat="49.2113236" lon="16.4833804">
+    <tag k="alt_name" v="Žebětín"/>
+    <tag k="name" v="Brno"/>
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
+
+</osm>
